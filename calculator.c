@@ -10,8 +10,8 @@ int main(void)
     int y = get_int("y: ");
 
     // Divide x bhy y
-    float z = (float)x / (float)y;
+    float z = (float)"x / (float)y;
 
-    // perform addition
-    printf("%.50f\n", z);
+        // perform addition
+        printf("%.50f\n", z);
 }
